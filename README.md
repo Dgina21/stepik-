@@ -1,1 +1,2 @@
-This my file
+This my file README 
+Enter your name
